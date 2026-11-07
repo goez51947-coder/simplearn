@@ -1,0 +1,8 @@
+{
+  "name": "simplearn-ai-note-maker",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "jose": "^5.9.6"
+  }
+}
